@@ -1,0 +1,15 @@
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.AssemblyInfoInputs.cache
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.AssemblyInfo.cs
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.csproj.CoreCompileInputs.cache
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.sourcelink.json
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\bin\Debug\net8.0\FirstStep.exe
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\bin\Debug\net8.0\FirstStep.deps.json
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\bin\Debug\net8.0\FirstStep.runtimeconfig.json
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\bin\Debug\net8.0\FirstStep.dll
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\bin\Debug\net8.0\FirstStep.pdb
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.dll
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\refint\FirstStep.dll
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.pdb
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\FirstStep.genruntimeconfig.cache
+C:\Users\Aldebaran\Documents\Programming\CSharp-\FirstStep\obj\Debug\net8.0\ref\FirstStep.dll

@@ -1,0 +1,5 @@
+C:\Users\Aldebaran\Documents\Programming\obj\Debug\net8.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldebaran\Documents\Programming\obj\Debug\net8.0\Programming.AssemblyInfoInputs.cache
+C:\Users\Aldebaran\Documents\Programming\obj\Debug\net8.0\Programming.AssemblyInfo.cs
+C:\Users\Aldebaran\Documents\Programming\obj\Debug\net8.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\Aldebaran\Documents\Programming\obj\Debug\net8.0\Programming.sourcelink.json
